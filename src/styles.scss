@@ -2,3 +2,15 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.tab-contents {
+  padding: 10px;
+  max-width: 500px;
+  del.my-class {
+    background-color: lightcoral !important;
+  }
+
+  ins.my-class {
+    background-color: lightgreen !important;
+  }
+}
