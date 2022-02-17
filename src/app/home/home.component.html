@@ -1,4 +1,4 @@
-<mat-tab-group animationDuration="0">
+<mat-tab-group (selectedTabChange)="selectedTabChange($event)" animationDuration="0">
   <mat-tab label="Previous">
     <div class="tab-contents" [innerHTML]="htmlPrevious"></div>
   </mat-tab>
