@@ -38,5 +38,7 @@ npm run lint
 npm run test
 ```
 
+## References
+
 * [htmldiff-js](https://github.com/dfoverdx/htmldiff-js)
 * [Angular Material](https://material.angular.io/)
